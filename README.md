@@ -1,2 +1,3 @@
 # hello-world
-Repository fpr practising GitHub Flow
+Repository for practising GitHub Flow
+Changes done to check the commit
